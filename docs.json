@@ -1,0 +1,507 @@
+[
+  {
+    "id": 1000000,
+    "title_txt_ro": "Bună dimineața!",
+    "title_txt_en": "Good morning!"
+  },
+  {
+    "id": 1000001,
+    "title_txt_ro": "Cum te simți astăzi?",
+    "title_txt_en": "How are you feeling today?"
+  },
+  {
+    "id": 1000002,
+    "title_txt_ro": "Am nevoie de ajutor.",
+    "title_txt_en": "I need help."
+  },
+  {
+    "id": 1000003,
+    "title_txt_ro": "Ce vreme frumoasă!",
+    "title_txt_en": "What beautiful weather!"
+  },
+  {
+    "id": 1000004,
+    "title_txt_ro": "Unde este biblioteca?",
+    "title_txt_en": "Where is the library?"
+  },
+  {
+    "id": 1000005,
+    "title_txt_ro": "Mâncarea este delicioasă.",
+    "title_txt_en": "The food is delicious."
+  },
+  {
+    "id": 1000006,
+    "title_txt_ro": "Cât costă biletul?",
+    "title_txt_en": "How much is the ticket?"
+  },
+  {
+    "id": 1000007,
+    "title_txt_ro": "Pot să fac o fotografie?",
+    "title_txt_en": "Can I take a photo?"
+  },
+  {
+    "id": 1000008,
+    "title_txt_ro": "Mi-a plăcut filmul.",
+    "title_txt_en": "I liked the movie."
+  },
+  {
+    "id": 1000009,
+    "title_txt_ro": "Îmi place să citesc cărți.",
+    "title_txt_en": "I like to read books."
+  },
+  {
+    "id": 1000010,
+    "title_txt_ro": "Să avem o zi frumoasă!",
+    "title_txt_en": "Let's have a nice day!"
+  },
+  {
+    "id": 1000011,
+    "title_txt_ro": "Acesta este apartamentul meu.",
+    "title_txt_en": "This is my apartment."
+  },
+  {
+    "id": 1000012,
+    "title_txt_ro": "Care este ora exactă?",
+    "title_txt_en": "What time is it?"
+  },
+  {
+    "id": 1000013,
+    "title_txt_ro": "Am o întâlnire la ora două.",
+    "title_txt_en": "I have a meeting at two o'clock."
+  },
+  {
+    "id": 1000014,
+    "title_txt_ro": "Mergeți înainte și luați la stânga.",
+    "title_txt_en": "Go straight and then turn left."
+  },
+  {
+    "id": 1000015,
+    "title_txt_ro": "Sunt foarte obosit.",
+    "title_txt_en": "I am very tired."
+  },
+  {
+    "id": 1000016,
+    "title_txt_ro": "Am câteva întrebări.",
+    "title_txt_en": "I have a few questions."
+  },
+  {
+    "id": 1000017,
+    "title_txt_ro": "Este un loc frumos.",
+    "title_txt_en": "It's a beautiful place."
+  },
+  {
+    "id": 1000018,
+    "title_txt_ro": "Sunt foarte fericit să te cunosc.",
+    "title_txt_en": "I am very happy to meet you."
+  },
+  {
+    "id": 1000019,
+    "title_txt_ro": "De unde ești?",
+    "title_txt_en": "Where are you from?"
+  },
+  {
+    "id": 1000020,
+    "title_txt_ro": "Îmi place să gătesc.",
+    "title_txt_en": "I like to cook."
+  },
+  {
+    "id": 1000021,
+    "title_txt_ro": "Aceasta este mașina mea.",
+    "title_txt_en": "This is my car."
+  },
+  {
+    "id": 1000022,
+    "title_txt_ro": "Vrei să mergem la plajă?",
+    "title_txt_en": "Do you want to go to the beach?"
+  },
+  {
+    "id": 1000023,
+    "title_txt_ro": "Mi-a plăcut cartea ta.",
+    "title_txt_en": "I liked your book."
+  },
+  {
+    "id": 1000024,
+    "title_txt_ro": "Ce zici să mergem la film?",
+    "title_txt_en": "How about going to the movies?"
+  },
+  {
+    "id": 1000025,
+    "title_txt_ro": "Unde este cea mai apropiată stație de autobuz?",
+    "title_txt_en": "Where is the nearest bus station?"
+  },
+  {
+    "id": 1000026,
+    "title_txt_ro": "Poți să-mi recomanzi un restaurant bun?",
+    "title_txt_en": "Can you recommend a good restaurant?"
+  },
+  {
+    "id": 1000027,
+    "title_txt_ro": "Îmi place să ascult muzică.",
+    "title_txt_en": "I like to listen to music."
+  },
+  {
+    "id": 1000028,
+    "title_txt_ro": "Am vândut mașina săptămâna trecută.",
+    "title_txt_en": "I sold the car last week."
+  },
+  {
+    "id": 1000029,
+    "title_txt_ro": "Este un restaurant italian aici aproape.",
+    "title_txt_en": "There's an Italian restaurant nearby."
+  },
+  {
+    "id": 1000030,
+    "title_txt_ro": "Este corect să spunem asta?",
+    "title_txt_en": "Is it right to say this?"
+  },
+  {
+    "id": 1000031,
+    "title_txt_ro": "Am un plan grozav pentru mâine.",
+    "title_txt_en": "I have a great plan for tomorrow."
+  },
+  {
+    "id": 1000032,
+    "title_txt_ro": "Călătoria a fost foarte interesantă.",
+    "title_txt_en": "The trip was very interesting."
+  },
+  {
+    "id": 1000033,
+    "title_txt_ro": "Să mâncăm ceva astăzi.",
+    "title_txt_en": "Let's eat something today."
+  },
+  {
+    "id": 1000034,
+    "title_txt_ro": "Orașul acesta este foarte vechi.",
+    "title_txt_en": "This city is very old."
+  },
+  {
+    "id": 1000035,
+    "title_txt_ro": "Locuiesc într-un apartament nou.",
+    "title_txt_en": "I live in a new apartment."
+  },
+  {
+    "id": 1000036,
+    "title_txt_ro": "Îmi trebuie mai mult timp să termin.",
+    "title_txt_en": "I need more time to finish."
+  },
+  {
+    "id": 1000037,
+    "title_txt_ro": "Care este adresa ta?",
+    "title_txt_en": "What is your address?"
+  },
+  {
+    "id": 1000038,
+    "title_txt_ro": "Doresc să vizitez muzeul.",
+    "title_txt_en": "I wish to visit the museum."
+  },
+  {
+    "id": 1000039,
+    "title_txt_ro": "Unde este terminalul trei?",
+    "title_txt_en": "Where is terminal three?"
+  },
+  {
+    "id": 1000040,
+    "title_txt_ro": "Acesta este computerul meu.",
+    "title_txt_en": "This is my computer."
+  },
+  {
+    "id": 1000041,
+    "title_txt_ro": "Este o problemă serioasă.",
+    "title_txt_en": "It's a serious problem."
+  },
+  {
+    "id": 1000042,
+    "title_txt_ro": "Voi pleca mâine dimineață.",
+    "title_txt_en": "I will leave tomorrow morning."
+  },
+  {
+    "id": 1000043,
+    "title_txt_ro": "Pot să vorbesc cu directorul?",
+    "title_txt_en": "Can I speak with the manager?"
+  },
+  {
+    "id": 1000044,
+    "title_txt_ro": "Nu am semnal aici.",
+    "title_txt_en": "I have no signal here."
+  },
+  {
+    "id": 1000045,
+    "title_txt_ro": "Am nevoie de o programare.",
+    "title_txt_en": "I need an appointment."
+  },
+  {
+    "id": 1000046,
+    "title_txt_ro": "Care este traseul spre aeroport?",
+    "title_txt_en": "What is the route to the airport?"
+  },
+  {
+    "id": 1000047,
+    "title_txt_ro": "Acesta este un articol interesant.",
+    "title_txt_en": "This is an interesting article."
+  },
+  {
+    "id": 1000048,
+    "title_txt_ro": "Mulțumesc pentru ajutor.",
+    "title_txt_en": "Thank you for your help."
+  },
+  {
+    "id": 1000049,
+    "title_txt_ro": "Unde este secția de poliție?",
+    "title_txt_en": "Where is the police station?"
+  },
+  {
+    "id": 1000050,
+    "title_txt_ro": "Este aproape de gară?",
+    "title_txt_en": "Is it near the station?"
+  },
+  {
+    "id": 1000051,
+    "title_txt_ro": "Am auzit vești bune astăzi.",
+    "title_txt_en": "I heard good news today."
+  },
+  {
+    "id": 1000052,
+    "title_txt_ro": "La ce oră se închide magazinul?",
+    "title_txt_en": "What time does the shop close?"
+  },
+  {
+    "id": 1000053,
+    "title_txt_ro": "Acest parc este foarte frumos.",
+    "title_txt_en": "This park is very beautiful."
+  },
+  {
+    "id": 1000054,
+    "title_txt_ro": "Pot să plătesc cu cardul?",
+    "title_txt_en": "Can I pay by card?"
+  },
+  {
+    "id": 1000055,
+    "title_txt_ro": "Am lăsat cheia la recepție.",
+    "title_txt_en": "I left the key at the reception."
+  },
+  {
+    "id": 1000056,
+    "title_txt_ro": "Doresc să rezerv o cameră.",
+    "title_txt_en": "I wish to book a room."
+  },
+  {
+    "id": 1000057,
+    "title_txt_ro": "Cât de departe este plaja?",
+    "title_txt_en": "How far is the beach?"
+  },
+  {
+    "id": 1000058,
+    "title_txt_ro": "Acesta este un spectacol uimitor.",
+    "title_txt_en": "This is an amazing show."
+  },
+  {
+    "id": 1000059,
+    "title_txt_ro": "Sunt fericit aici.",
+    "title_txt_en": "I am happy here."
+  },
+  {
+    "id": 1000060,
+    "title_txt_ro": "Unde pot găsi un taxi?",
+    "title_txt_en": "Where can I find a taxi?"
+  },
+  {
+    "id": 1000061,
+    "title_txt_ro": "Nu știu ce să fac.",
+    "title_txt_en": "I don't know what to do."
+  },
+  {
+    "id": 1000062,
+    "title_txt_ro": "Acesta este un loc liniștit.",
+    "title_txt_en": "This is a quiet place."
+  },
+  {
+    "id": 1000063,
+    "title_txt_ro": "Am multe lucruri de făcut.",
+    "title_txt_en": "I have many things to do."
+  },
+  {
+    "id": 1000064,
+    "title_txt_ro": "Ce zi frumoasă!",
+    "title_txt_en": "What a beautiful day!"
+  },
+  {
+    "id": 1000065,
+    "title_txt_ro": "Îmi trebuie un loc de muncă.",
+    "title_txt_en": "I need a job."
+  },
+  {
+    "id": 1000066,
+    "title_txt_ro": "Acesta este un loc popular.",
+    "title_txt_en": "This is a popular place."
+  },
+  {
+    "id": 1000067,
+    "title_txt_ro": "Am văzut un film bun aseară.",
+    "title_txt_en": "I saw a good movie last night."
+  },
+  {
+    "id": 1000068,
+    "title_txt_ro": "Care este numărul tău de telefon?",
+    "title_txt_en": "What is your phone number?"
+  },
+  {
+    "id": 1000069,
+    "title_txt_ro": "Sunt foarte ocupat.",
+    "title_txt_en": "I am very busy."
+  },
+  {
+    "id": 1000070,
+    "title_txt_ro": "Îmi place să dansez.",
+    "title_txt_en": "I like to dance."
+  },
+  {
+    "id": 1000071,
+    "title_txt_ro": "Am nevoie de un plan de vacanță.",
+    "title_txt_en": "I need a vacation plan."
+  },
+  {
+    "id": 1000072,
+    "title_txt_ro": "Îmi lipsește familia.",
+    "title_txt_en": "I miss my family."
+  },
+  {
+    "id": 1000073,
+    "title_txt_ro": "Acesta este un loc aglomerat.",
+    "title_txt_en": "This is a crowded place."
+  },
+  {
+    "id": 1000074,
+    "title_txt_ro": "Ai fost un prieten bun.",
+    "title_txt_en": "You have been a good friend."
+  },
+  {
+    "id": 1000075,
+    "title_txt_ro": "Sunt îngrijorat în legătură cu asta.",
+    "title_txt_en": "I am worried about it."
+  },
+  {
+    "id": 1000076,
+    "title_txt_ro": "Este o zi ploioasă.",
+    "title_txt_en": "It's a rainy day."
+  },
+  {
+    "id": 1000077,
+    "title_txt_ro": "Îmi place să vizitez muzee.",
+    "title_txt_en": "I like to visit museums."
+  },
+  {
+    "id": 1000078,
+    "title_txt_ro": "Este o idee grozavă!",
+    "title_txt_en": "This is a great idea!"
+  },
+  {
+    "id": 1000079,
+    "title_txt_ro": "Îmi plac filmele de acțiune.",
+    "title_txt_en": "I like action movies."
+  },
+  {
+    "id": 1000080,
+    "title_txt_ro": "Sunt foarte mulțumit de serviciul dumneavoastră.",
+    "title_txt_en": "I am very satisfied with your service."
+  },
+  {
+    "id": 1000081,
+    "title_txt_ro": "Am nevoie de un răspuns rapid.",
+    "title_txt_en": "I need a quick response."
+  },
+  {
+    "id": 1000082,
+    "title_txt_ro": "Este o seară minunată.",
+    "title_txt_en": "It's a wonderful evening."
+  },
+  {
+    "id": 1000083,
+    "title_txt_ro": "Îmi este dor de tine.",
+    "title_txt_en": "I miss you."
+  },
+  {
+    "id": 1000084,
+    "title_txt_ro": "Acest oraș este foarte mare.",
+    "title_txt_en": "This city is very big."
+  },
+  {
+    "id": 1000085,
+    "title_txt_ro": "Îmi plac căsuțele vechi.",
+    "title_txt_en": "I like old houses."
+  },
+  {
+    "id": 1000086,
+    "title_txt_ro": "Unde se află stația de tren?",
+    "title_txt_en": "Where is the train station?"
+  },
+  {
+    "id": 1000087,
+    "title_txt_ro": "Acesta este cel mai bun hotel.",
+    "title_txt_en": "This is the best hotel."
+  },
+  {
+    "id": 1000088,
+    "title_txt_ro": "Îmi place să călătoresc cu avionul.",
+    "title_txt_en": "I like to travel by plane."
+  },
+  {
+    "id": 1000089,
+    "title_txt_ro": "Care este numele tău?",
+    "title_txt_en": "What's your name?"
+  },
+  {
+    "id": 1000090,
+    "title_txt_ro": "Mă simt bine.",
+    "title_txt_en": "I feel good."
+  },
+  {
+    "id": 1000091,
+    "title_txt_ro": "Ce îți place să faci?",
+    "title_txt_en": "What do you like to do?"
+  },
+  {
+    "id": 1000092,
+    "title_txt_ro": "Acesta este un scenariu tipic.",
+    "title_txt_en": "This is a typical scenario."
+  },
+  {
+    "id": 1000093,
+    "title_txt_ro": "Îmi place să dorm târziu.",
+    "title_txt_en": "I like to sleep late."
+  },
+  {
+    "id": 1000094,
+    "title_txt_ro": "Unde este toaleta?",
+    "title_txt_en": "Where is the restroom?"
+  },
+  {
+    "id": 1000095,
+    "title_txt_ro": "Această mâncare este foarte bună.",
+    "title_txt_en": "This food is very good."
+  },
+  {
+    "id": 1000096,
+    "title_txt_ro": "Îmi place să fac sport.",
+    "title_txt_en": "I like to do sports."
+  },
+  {
+    "id": 1000097,
+    "title_txt_ro": "Mulțumesc pentru vizită.",
+    "title_txt_en": "Thank you for visiting."
+  },
+  {
+    "id": 1000098,
+    "title_txt_ro": "Unde este aeroportul?",
+    "title_txt_en": "Where is the airport?"
+  },
+  {
+    "id": 1000099,
+    "title_txt_ro": "Îmi place să petrec timp cu familia.",
+    "title_txt_en": "I like to spend time with family."
+  },
+  {
+    "id": 1000100,
+    "title_txt_ro": "Viața este frumoasă.",
+    "title_txt_en": "Life is beautiful."
+  }
+]
